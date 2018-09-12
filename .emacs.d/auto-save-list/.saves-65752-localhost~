@@ -1,0 +1,14 @@
+/root/xapi-clusterd/test/test.ml
+/root/xapi-clusterd/test/#test.ml#
+/root/xapi-clusterd/test/real/vhost.ml
+/root/xapi-clusterd/test/real/#vhost.ml#
+/root/test.sh
+/root/#test.sh#
+/root/aux.sh
+/root/#aux.sh#
+/root/xapi-clusterd/test/test_client.py
+/root/xapi-clusterd/test/#test_client.py#
+/root/xapi-clusterd/test/test_networkfailure.py
+/root/xapi-clusterd/test/#test_networkfailure.py#
+/root/xapi-clusterd/test/real/run_component_tests.sh
+/root/xapi-clusterd/test/real/#run_component_tests.sh#
